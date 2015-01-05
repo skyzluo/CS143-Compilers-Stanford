@@ -50,9 +50,13 @@ For each assignment, you need to set up the starter code according to the assign
 Listed below are (only) the files I modified in each assignment.
 
 ### Assignment 1
+> score: 63 / 63
+
 `/PA2/cool.flex`
 
 ### Assignment 2
+> score: 70 / 70
+
 `/PA3/cool.y`
 
 #### Important note on assignment 2
@@ -64,6 +68,8 @@ Please comment out line `29` of the file `parser-phase.cc` (which you should not
     //int curr_lineno;               // needed for lexical analyzer
 
 ### Assignment 3
+> score: 74 / 74
+
 `/PA4/semant.cc`
 
 `/PA4/semant.h`
@@ -71,6 +77,8 @@ Please comment out line `29` of the file `parser-phase.cc` (which you should not
 `/PA4/cool-tree.h`
 
 ### Assignment 4
+> score: 63 / 63
+
 `/PA5/cgen.cc`
 
 `/PA5/cgen.h`
